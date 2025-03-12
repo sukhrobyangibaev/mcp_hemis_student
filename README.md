@@ -30,9 +30,9 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-4. Clone this repository: #TODO
+4. Clone this repository:
 ```sh
-git clone https://github.com/yourusername/mcp_hemis_student.git
+git clone https://github.com/sukhrobyangibaev/mcp_hemis_student.git
 cd mcp_hemis_student
 ```
 
