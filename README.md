@@ -99,6 +99,7 @@ If the hammer icon has shown up, you can now test your server by running the fol
 - "Show me my attendance for Databases class"
 - "What exams do I have this semester?"
 
+![client](img/image_claude.png)
 
 ## Available Tools
 
@@ -150,6 +151,22 @@ If the hammer icon has shown up, you can now test your server by running the fol
   - `get_universities()` - Get a list of universities using HEMIS system
   - `get_university_profile()` - Get profile information about university
 </details>
+
+## Running Client (for Advanced Users)
+
+If you have an API key for Anthropic or OpenAI, you can run the clients as well.
+
+1. Copy the `.env.example` file to `.env` and fill in the necessary keys.
+
+2. In the project folder, run one of the following commands:
+
+```sh
+uv run client_claude.py server.py
+# or
+uv run client_openai.py server.py
+```
+
+![client](img/image_client.png)
 
 ## Security Note
 
