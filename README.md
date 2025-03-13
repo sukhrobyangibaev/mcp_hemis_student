@@ -1,6 +1,6 @@
 # MCP HEMIS Student
 
-![Demo Video](https://github.com/user-attachments/assets/028aa938-bc2d-400f-84a1-ae1000c8af9c)
+https://github.com/user-attachments/assets/028aa938-bc2d-400f-84a1-ae1000c8af9c
 
 A Model Context Protocol (MCP) for accessing student information from the Higher Education Management Information System (HEMIS). This tool allows students to retrieve their academic information, schedules, grades, attendance, and other university-related data directly through Claude.
 
