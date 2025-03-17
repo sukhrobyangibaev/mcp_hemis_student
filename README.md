@@ -17,6 +17,11 @@ This MCP provides a bridge between Claude and your university's HEMIS platform, 
 - Check contract information
 - Get university statistics
 
+## Useful Links
+
+- [MCP Server Quickstart Guide](https://modelcontextprotocol.io/quickstart/server)
+- [HEMIS API Documentation](https://student.hemis.uz/rest/docs)
+
 ## Installation
 
 1. Install "Claude for Desktop" from [https://claude.ai/download](https://claude.ai/download).
@@ -177,3 +182,8 @@ Your HEMIS credentials are stored locally in your Claude configuration. They are
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+## Acknowledgments
+
+Special thanks to:
+- Shonazarov Azizbek Xushnudbek o'g'li for providing a HEMIS account for testing purposes
